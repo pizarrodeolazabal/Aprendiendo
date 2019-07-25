@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  font-size: 15px;
+  text-align: center;
+}
+
+h2 {
+  color: blue;
+  font-size: 11px;
+  text-align: center;
+}
+
+ul {
+  color: blue;
+  font-size: 20px;
+  width: 200px;
+  margin: 0 auto;
+}
+
+p {
+  font-size: 30px;
+  letter-spacing: 2em;
+}
